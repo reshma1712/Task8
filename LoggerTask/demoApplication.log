@@ -1,0 +1,44 @@
+2020-02-25 22:11:39 DEBUG Main:12 - This is DEBUG Statement
+  2020-02-25 22:11:39 INFO  Main:13 - This is INFO statement
+  2020-02-25 22:11:39 WARN  Main:14 - This is WARN Statement
+  2020-02-25 22:11:39 ERROR Main:15 - This is ERROR Statement
+  2020-02-25 22:11:39 FATAL Main:16 - This is FATAL Statement
+  2020-02-25 22:11:39 INFO  Houses:15 - Choose Materials to Construct a House : 
+
+  2020-02-25 22:11:39 INFO  Houses:16 - 1.1200/- for Standard Materials
+
+  2020-02-25 22:11:39 INFO  Houses:17 - 2.1500/- for Above Standard Materials
+
+  2020-02-25 22:11:39 INFO  Houses:18 - 3.1800/- for High Standard Materials
+
+  2020-02-25 22:11:39 INFO  Houses:19 - 4.2500/- for High Standard and Fully Automated
+
+  2020-02-25 22:11:44 INFO  Houses:23 - Enter Area for Construction : 
+  2020-02-25 22:11:46 INFO  Houses:26 - Cost for Construction is : 2400.0
+
+  2020-02-25 22:11:47 INFO  Houses:15 - Choose Materials to Construct a House : 
+
+  2020-02-25 22:11:47 INFO  Houses:16 - 1.1200/- for Standard Materials
+
+  2020-02-25 22:11:47 INFO  Houses:17 - 2.1500/- for Above Standard Materials
+
+  2020-02-25 22:11:47 INFO  Houses:18 - 3.1800/- for High Standard Materials
+
+  2020-02-25 22:11:47 INFO  Houses:19 - 4.2500/- for High Standard and Fully Automated
+
+  2020-02-26 15:13:47 DEBUG Main:12 - This is DEBUG Statement
+  2020-02-26 15:13:47 INFO  Main:13 - This is INFO statement
+  2020-02-26 15:13:47 WARN  Main:14 - This is WARN Statement
+  2020-02-26 15:13:47 ERROR Main:15 - This is ERROR Statement
+  2020-02-26 15:13:47 FATAL Main:16 - This is FATAL Statement
+  2020-02-26 15:13:47 INFO  Houses:15 - Choose Materials to Construct a House : 
+
+  2020-02-26 15:13:47 INFO  Houses:16 - 1.1200/- for Standard Materials
+
+  2020-02-26 15:13:47 INFO  Houses:17 - 2.1500/- for Above Standard Materials
+
+  2020-02-26 15:13:47 INFO  Houses:18 - 3.1800/- for High Standard Materials
+
+  2020-02-26 15:13:47 INFO  Houses:19 - 4.2500/- for High Standard and Fully Automated
+
+  

@@ -1,0 +1,13 @@
+2020-02-26 15:26:51 DEBUG Interest:21 - This is DEBUG Statement
+  2020-02-26 15:26:51 INFO  Interest:22 - This is INFO statement
+  2020-02-26 15:26:51 WARN  Interest:23 - This is WARN Statement
+  2020-02-26 15:26:51 ERROR Interest:24 - This is ERROR Statement
+  2020-02-26 15:26:51 FATAL Interest:25 - This is FATAL Statement
+  2020-02-26 15:26:51 INFO  Interest:27 - Choose either option 1 or 2 :
+
+  2020-02-26 15:26:51 INFO  Interest:28 - 1.Simple Interest
+
+  2020-02-26 15:26:51 INFO  Interest:29 - 2.Compound Interest
+
+  2020-02-26 15:26:51 INFO  Interest:35 - Enter Your Choice:
+  

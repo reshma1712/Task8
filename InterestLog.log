@@ -1,0 +1,44 @@
+2020-02-26 15:43:13 DEBUG Interest:21 - This is DEBUG Statement
+  2020-02-26 15:43:13 INFO  Interest:22 - This is INFO statement
+  2020-02-26 15:43:13 WARN  Interest:23 - This is WARN Statement
+  2020-02-26 15:43:13 ERROR Interest:24 - This is ERROR Statement
+  2020-02-26 15:43:13 FATAL Interest:25 - This is FATAL Statement
+  2020-02-26 15:43:13 INFO  Interest:27 - Choose either option 1 or 2 :
+
+  2020-02-26 15:43:13 INFO  Interest:28 - 1.Simple Interest
+
+  2020-02-26 15:43:13 INFO  Interest:29 - 2.Compound Interest
+
+  2020-02-26 15:43:13 INFO  Interest:35 - Enter Your Choice:
+  2020-02-26 15:43:18 INFO  Interest:15 - Enter Principle Amount : 
+  2020-02-26 15:43:19 INFO  Interest:17 - Enter Rate : 
+  2020-02-26 15:43:20 INFO  Interest:19 - Enter Time Period : 
+  2020-02-26 15:43:20 INFO  Interest:24 - Total Amount : 3.6499586
+  2020-02-26 15:43:20 INFO  Interest:49 - press 1 to continue else 0 to break
+  2020-02-26 15:43:22 INFO  Interest:35 - Enter Your Choice:
+  2020-02-26 15:43:23 INFO  Interest:46 - Please Enter Valid Option!
+  2020-02-26 15:43:23 INFO  Interest:49 - press 1 to continue else 0 to break
+  2020-02-26 15:43:44 DEBUG Interest:21 - This is DEBUG Statement
+  2020-02-26 15:43:44 INFO  Interest:22 - This is INFO statement
+  2020-02-26 15:43:44 WARN  Interest:23 - This is WARN Statement
+  2020-02-26 15:43:44 ERROR Interest:24 - This is ERROR Statement
+  2020-02-26 15:43:44 FATAL Interest:25 - This is FATAL Statement
+  2020-02-26 15:43:44 INFO  Interest:27 - Choose either option 1 or 2 :
+
+  2020-02-26 15:43:44 INFO  Interest:28 - 1.Simple Interest
+
+  2020-02-26 15:43:44 INFO  Interest:29 - 2.Compound Interest
+
+  2020-02-26 15:43:44 INFO  Interest:35 - Enter Your Choice:
+  2020-02-26 15:43:47 INFO  Interest:15 - Enter Principle Amount : 
+  2020-02-26 15:43:48 INFO  Interest:17 - Enter Rate : 
+  2020-02-26 15:43:48 INFO  Interest:19 - Enter Time Period : 
+  2020-02-26 15:43:49 INFO  Interest:24 - Total Amount : 0.6
+  2020-02-26 15:43:49 INFO  Interest:49 - press 1 to continue else 0 to break
+  2020-02-26 15:43:52 INFO  Interest:35 - Enter Your Choice:
+  2020-02-26 15:43:56 INFO  Interest:15 - Enter Principle Amount : 
+  2020-02-26 15:43:57 INFO  Interest:17 - Enter Rate : 
+  2020-02-26 15:43:57 INFO  Interest:19 - Enter Time Period : 
+  2020-02-26 15:43:58 INFO  Interest:24 - Total Amount : 12.308991
+  2020-02-26 15:43:58 INFO  Interest:49 - press 1 to continue else 0 to break
+  

@@ -1,0 +1,78 @@
+2020-02-25 21:25:51 DEBUG CalculateInterest:19 - This is DEBUG Statement
+  2020-02-25 21:25:51 INFO  CalculateInterest:20 - This is INFO statement
+  2020-02-25 21:25:51 WARN  CalculateInterest:21 - This is WARN Statement
+  2020-02-25 21:25:51 ERROR CalculateInterest:22 - This is ERROR Statement
+  2020-02-25 21:25:51 FATAL CalculateInterest:23 - This is FATAL Statement
+  2020-02-25 21:25:51 INFO  CalculateInterest:25 - Choose either option 1 or 2 :
+1.Simple Interest
+2.Compound Interest
+
+  2020-02-25 21:25:51 INFO  CalculateInterest:30 - Enter Your Choice:
+  2020-02-25 21:25:55 INFO  CalculateInterest:15 - Enter Principle Amount : 
+  2020-02-25 21:25:58 INFO  CalculateInterest:17 - Enter Rate : 
+  2020-02-25 21:25:59 INFO  CalculateInterest:19 - Enter Time Period : 
+  2020-02-25 21:25:59 INFO  CalculateInterest:24 - Total Amount : 0.01
+  2020-02-25 21:25:59 INFO  CalculateInterest:44 - press 1 to continue else 0 to break
+  2020-02-25 21:26:01 INFO  CalculateInterest:30 - Enter Your Choice:
+  2020-02-25 21:27:44 DEBUG Interest:19 - This is DEBUG Statement
+  2020-02-25 21:27:44 INFO  Interest:20 - This is INFO statement
+  2020-02-25 21:27:44 WARN  Interest:21 - This is WARN Statement
+  2020-02-25 21:27:44 ERROR Interest:22 - This is ERROR Statement
+  2020-02-25 21:27:44 FATAL Interest:23 - This is FATAL Statement
+  2020-02-25 21:27:44 INFO  Interest:25 - Choose either option 1 or 2 :
+1.Simple Interest
+2.Compound Interest
+
+  2020-02-25 21:27:44 INFO  Interest:30 - Enter Your Choice:
+  2020-02-25 21:27:47 INFO  Interest:15 - Enter Principle Amount : 
+  2020-02-25 21:27:49 INFO  Interest:17 - Enter Rate : 
+  2020-02-25 21:27:50 INFO  Interest:19 - Enter Time Period : 
+  2020-02-25 21:27:54 INFO  Interest:24 - Total Amount : 0.01
+  2020-02-25 21:27:54 INFO  Interest:44 - press 1 to continue else 0 to break
+  2020-02-25 21:33:44 DEBUG Interest:19 - This is DEBUG Statement
+  2020-02-25 21:33:44 INFO  Interest:20 - This is INFO statement
+  2020-02-25 21:33:44 WARN  Interest:21 - This is WARN Statement
+  2020-02-25 21:33:44 ERROR Interest:22 - This is ERROR Statement
+  2020-02-25 21:33:44 FATAL Interest:23 - This is FATAL Statement
+  2020-02-25 21:33:44 INFO  Interest:25 - Choose either option 1 or 2 :
+1.Simple Interest
+2.Compound Interest
+
+  2020-02-25 21:33:44 INFO  Interest:30 - Enter Your Choice:
+  2020-02-25 21:33:48 INFO  Interest:15 - Enter Principle Amount : 
+  2020-02-25 21:33:49 INFO  Interest:17 - Enter Rate : 
+  2020-02-25 21:33:50 INFO  Interest:19 - Enter Time Period : 
+  2020-02-25 21:41:42 DEBUG Interest:19 - This is DEBUG Statement
+  2020-02-25 21:41:42 INFO  Interest:20 - This is INFO statement
+  2020-02-25 21:41:42 WARN  Interest:21 - This is WARN Statement
+  2020-02-25 21:41:42 ERROR Interest:22 - This is ERROR Statement
+  2020-02-25 21:41:42 FATAL Interest:23 - This is FATAL Statement
+  2020-02-25 21:41:42 INFO  Interest:25 - Choose either option 1 or 2 :
+
+  2020-02-25 21:41:42 INFO  Interest:26 - 1.Simple Interest
+
+  2020-02-25 21:41:42 INFO  Interest:27 - 2.Compound Interest
+
+  2020-02-25 21:41:42 INFO  Interest:28 - 
+
+  2020-02-25 21:41:42 INFO  Interest:33 - Enter Your Choice:
+  2020-02-25 21:42:09 DEBUG Interest:19 - This is DEBUG Statement
+  2020-02-25 21:42:09 INFO  Interest:20 - This is INFO statement
+  2020-02-25 21:42:09 WARN  Interest:21 - This is WARN Statement
+  2020-02-25 21:42:09 ERROR Interest:22 - This is ERROR Statement
+  2020-02-25 21:42:09 FATAL Interest:23 - This is FATAL Statement
+  2020-02-25 21:42:09 INFO  Interest:25 - Choose either option 1 or 2 :
+
+  2020-02-25 21:42:09 INFO  Interest:26 - 1.Simple Interest
+
+  2020-02-25 21:42:09 INFO  Interest:27 - 2.Compound Interest
+
+  2020-02-25 21:42:09 INFO  Interest:33 - Enter Your Choice:
+  2020-02-25 21:42:16 INFO  Interest:15 - Enter Principle Amount : 
+  2020-02-25 21:42:19 INFO  Interest:17 - Enter Rate : 
+  2020-02-25 21:42:20 INFO  Interest:19 - Enter Time Period : 
+  2020-02-25 21:42:22 INFO  Interest:24 - Total Amount : 579.6
+  2020-02-25 21:42:22 INFO  Interest:46 - 
+
+  2020-02-25 21:42:22 INFO  Interest:47 - press 1 to continue else 0 to break
+  
